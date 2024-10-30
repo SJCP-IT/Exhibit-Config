@@ -1,6 +1,6 @@
 <dict>
     <key>edu.nebraska.ImageViewer.dataURL</key>
-    <string>https://github.com/SJCP-IT/Exhibit-Config/raw/refs/heads/main/SJATVSS%20Default/preferences.csv</string>
+    <string>https://raw.githubusercontent.com/SJCP-IT/Exhibit-Config/refs/heads/main/SJATVSS%20Default/preferences.csv</string>
     <key>edu.nebraska.ImageViewer.deviceName</key>
     <string>$DEVICENAME</string>
     <key>edu.nebraska.ImageViewer.imageTimer</key>
