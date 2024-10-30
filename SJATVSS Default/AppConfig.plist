@@ -1,0 +1,32 @@
+<dict>
+    <key>edu.nebraska.ImageViewer.dataURL</key>
+    <string>https://github.com/SJCP-IT/Exhibit-Config/raw/refs/heads/main/SJATVSS%20Default/preferences.csv</string>
+    <key>edu.nebraska.ImageViewer.deviceName</key>
+    <string>$DEVICENAME</string>
+    <key>edu.nebraska.ImageViewer.imageTimer</key>
+    <integer>10</integer>
+    <key>edu.nebraska.ImageViewer.airplayViewHide</key>
+    <false/>
+    <key>edu.nebraska.ImageViewer.airplayViewHideOnVideo</key>
+    <false/>
+    <key>edu.nebraska.ImageViewer.airplayViewTimer</key>
+    <integer>33</integer>
+    <key>edu.nebraska.ImageViewer.dataCheckTimer</key>
+    <integer>180</integer>
+    <key>edu.nebraska.ImageViewer.defaultBackground</key>
+    <string>DefaultBackgroundNoLogo</string>
+    <key>edu.nebraska.ImageViewer.airplayDescription</key>
+    <string>Wirelessly send what's on your iOS device or computer to this display using AirPlay. Learn more at help.apple.com/appletv.</string>
+    <key>edu.nebraska.ImageViewer.airplayDescription</key>
+    <string>CHOOSE THIS APPLE TV</string>
+    <key>edu.nebraska.ImageViewer.airplayViewPositionX</key>
+    <integer>1354</integer>
+    <key>edu.nebraska.ImageViewer.airplayViewPositionY</key>
+    <integer>638</integer>
+    <key>edu.nebraska.ImageViewer.airplayViewMovement</key>
+    <string>Fade</string>
+    <key>edu.nebraska.ImageViewer.playVideosInFull</key>
+    <true/>
+    <key>edu.nebraska.ImageViewer.playVideosWithAudio</key>
+    <false/>
+</dict>
